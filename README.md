@@ -23,3 +23,18 @@ we will generate a report using Power BI
 ## Azure key Vault
 
 ## PowerBI
+
+Apache Spark
+Distributed computing Platform
+In-memory processing engine
+Unified engine which supports SQL, streaming, ML and
+graph processing
+Apache Spark is a lightning-fast unified analytics engine for big
+data processing and machine learning
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+After deploying the Azure Data bricks resource group. Add it to a new dashboard to keep all the needed services for this project at one place.
+
+#### Created Cluster formulaone Cluster
